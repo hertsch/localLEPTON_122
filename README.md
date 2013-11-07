@@ -7,4 +7,4 @@ Just download the actual archive, extract is and execute `usbwebserver.exe` to s
 
 At questions or problems please visit the [Addons Support Group of the phpManufaktur](https://support.phpmanufaktur.de).
 
-Hint for developers: the repository sources contains only directories and files which differ from original USBWebserver 8.6, you must merge them to create a real clone.
+Hint for developers: the repository sources does not contain compiled binary files! Merge with original USBWebserver 8.6 files to create a working clone.
